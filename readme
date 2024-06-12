@@ -1,0 +1,18 @@
+# Text Summarizer
+
+Welcome to the Text Summarizer project! This tool allows you to automatically summarize large texts into shorter, more concise versions while retaining the most important information. It's ideal for quickly understanding lengthy articles, research papers, or any large document.
+
+## Features
+
+- **Automatic Text Summarization**: Summarizes text using advanced natural language processing techniques.
+- **Customizable Summaries**: Adjust the length of summaries according to your needs.
+- **Language Support**: Works with multiple languages (English, Spanish, French, etc.).
+
+## Installation
+
+To get started with the Text Summarizer, follow these steps:
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/text-summarizer.git
+   cd text-summarizer
